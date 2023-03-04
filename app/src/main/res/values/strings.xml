@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">KTours</string>
+    <string name="tagline">Les’s explore further with us</string>
+    <string name="full_name">Full Name</string>
+    <string name="password">Password</string>
+</resources>
